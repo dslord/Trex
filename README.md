@@ -1,4 +1,4 @@
-# T-Rex Meteor Run
+# T-Rex Run
 
 T-Rex Meteor Run is a browser-based endless runner game inspired by the classic Chrome Dino game. Built using **JavaScript**, **p5.js**, and **p5.play**, the game challenges players to survive as long as possible by jumping over cacti while a massive meteor looms in the background. As the score increases, the game becomes progressively faster, testing the player's timing and reflexes.
 

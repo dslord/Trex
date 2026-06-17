@@ -132,17 +132,6 @@ Open `index.html` in your preferred web browser.
 
 ---
 
-## Future Improvements
-
-* Flying enemy obstacles
-* Day and night cycle
-* Sound effects and background music
-* Mobile touch controls
-* Power-ups and collectibles
-* Multiple environment themes
-
----
-
 ## Contributing
 
 Contributions are welcome. Feel free to fork the repository, create a feature branch, and submit a pull request.
